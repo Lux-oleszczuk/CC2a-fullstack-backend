@@ -1,0 +1,242 @@
+[
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2004-01-01/P1Y",
+        "Value": 78.9
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2005-01-01/P1Y",
+        "Value": 72.7
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2006-01-01/P1Y",
+        "Value": 80.2
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2007-01-01/P1Y",
+        "Value": 76.2
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2008-01-01/P1Y",
+        "Value": 71.7
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2009-01-01/P1Y",
+        "Value": 75.8
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2010-01-01/P1Y",
+        "Value": 74.0
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2011-01-01/P1Y",
+        "Value": 74.9
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2012-01-01/P1Y",
+        "Value": 70.3
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2013-01-01/P1Y",
+        "Value": 72.1
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2014-01-01/P1Y",
+        "Value": 78.6
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2015-01-01/P1Y",
+        "Value": 77.0
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2016-01-01/P1Y",
+        "Value": 75.6
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2017-01-01/P1Y",
+        "Value": 74.1
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2018-01-01/P1Y",
+        "Value": 76.9
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2019-01-01/P1Y",
+        "Value": 77.5
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2020-01-01/P1Y",
+        "Value": 79.5
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2021-01-01/P1Y",
+        "Value": 76.3
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2022-01-01/P1Y",
+        "Value": 76.0
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2023-01-01/P1Y",
+        "Value": 72.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2004-01-01/P1Y",
+        "Value": 75.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2005-01-01/P1Y",
+        "Value": 77.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2006-01-01/P1Y",
+        "Value": 76.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2007-01-01/P1Y",
+        "Value": 79.9
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2008-01-01/P1Y",
+        "Value": 77.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2009-01-01/P1Y",
+        "Value": 80.2
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2010-01-01/P1Y",
+        "Value": 74.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2011-01-01/P1Y",
+        "Value": 77.9
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2012-01-01/P1Y",
+        "Value": 80.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2013-01-01/P1Y",
+        "Value": 76.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2014-01-01/P1Y",
+        "Value": 79.4
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2015-01-01/P1Y",
+        "Value": 78.9
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2016-01-01/P1Y",
+        "Value": 80.4
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2017-01-01/P1Y",
+        "Value": 83.8
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2018-01-01/P1Y",
+        "Value": 82.0
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2019-01-01/P1Y",
+        "Value": 84.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2020-01-01/P1Y",
+        "Value": 80.1
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2021-01-01/P1Y",
+        "Value": 79.7
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2022-01-01/P1Y",
+        "Value": 82.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2023-01-01/P1Y",
+        "Value": 79.0
+    }
+]

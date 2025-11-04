@@ -1,0 +1,422 @@
+[
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2014-04-01/P1Y",
+        "Value": 15.1
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2015-04-01/P1Y",
+        "Value": 15.7
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2016-04-01/P1Y",
+        "Value": 16.0
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2017-04-01/P1Y",
+        "Value": 18.2
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2018-04-01/P1Y",
+        "Value": 17.5
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2019-04-01/P1Y",
+        "Value": 21.8
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2020-04-01/P1Y",
+        "Value": 18.1
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2021-04-01/P1Y",
+        "Value": 18.8
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2022-04-01/P1Y",
+        "Value": 20.5
+    },
+    {
+        "Area_code": "E07000143",
+        "Area_name": "Breckland",
+        "Period": "2023-04-01/P1Y",
+        "Value": 22.0
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2014-04-01/P1Y",
+        "Value": 11.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2015-04-01/P1Y",
+        "Value": 11.7
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2016-04-01/P1Y",
+        "Value": 11.8
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2017-04-01/P1Y",
+        "Value": 13.2
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2018-04-01/P1Y",
+        "Value": 12.3
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2019-04-01/P1Y",
+        "Value": 15.4
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2020-04-01/P1Y",
+        "Value": 12.9
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2021-04-01/P1Y",
+        "Value": 12.4
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2022-04-01/P1Y",
+        "Value": 13.6
+    },
+    {
+        "Area_code": "E07000144",
+        "Area_name": "Broadland",
+        "Period": "2023-04-01/P1Y",
+        "Value": 14.3
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2014-04-01/P1Y",
+        "Value": 21.5
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2015-04-01/P1Y",
+        "Value": 24.6
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2016-04-01/P1Y",
+        "Value": 25.2
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2017-04-01/P1Y",
+        "Value": 26.5
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2018-04-01/P1Y",
+        "Value": 25.2
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2019-04-01/P1Y",
+        "Value": 28.0
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2020-04-01/P1Y",
+        "Value": 23.7
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2021-04-01/P1Y",
+        "Value": 25.3
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2022-04-01/P1Y",
+        "Value": 29.3
+    },
+    {
+        "Area_code": "E07000145",
+        "Area_name": "Great Yarmouth",
+        "Period": "2023-04-01/P1Y",
+        "Value": 31.7
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2014-04-01/P1Y",
+        "Value": 17.3
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2015-04-01/P1Y",
+        "Value": 18.3
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2016-04-01/P1Y",
+        "Value": 18.7
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2017-04-01/P1Y",
+        "Value": 20.9
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2018-04-01/P1Y",
+        "Value": 18.8
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2019-04-01/P1Y",
+        "Value": 22.4
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2020-04-01/P1Y",
+        "Value": 19.6
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2021-04-01/P1Y",
+        "Value": 19.7
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2022-04-01/P1Y",
+        "Value": 22.4
+    },
+    {
+        "Area_code": "E07000146",
+        "Area_name": "King's Lynn and West Norfolk",
+        "Period": "2023-04-01/P1Y",
+        "Value": 22.9
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2014-04-01/P1Y",
+        "Value": 16.5
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2015-04-01/P1Y",
+        "Value": 17.4
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2016-04-01/P1Y",
+        "Value": 16.9
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2017-04-01/P1Y",
+        "Value": 20.1
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2018-04-01/P1Y",
+        "Value": 18.4
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2019-04-01/P1Y",
+        "Value": 22.6
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2020-04-01/P1Y",
+        "Value": 19.2
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2021-04-01/P1Y",
+        "Value": 19.7
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2022-04-01/P1Y",
+        "Value": 23.1
+    },
+    {
+        "Area_code": "E07000147",
+        "Area_name": "North Norfolk",
+        "Period": "2023-04-01/P1Y",
+        "Value": 25.1
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2014-04-01/P1Y",
+        "Value": 21.0
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2015-04-01/P1Y",
+        "Value": 23.2
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2016-04-01/P1Y",
+        "Value": 22.6
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2017-04-01/P1Y",
+        "Value": 26.3
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2018-04-01/P1Y",
+        "Value": 24.6
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2019-04-01/P1Y",
+        "Value": 29.3
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2020-04-01/P1Y",
+        "Value": 25.1
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2021-04-01/P1Y",
+        "Value": 26.5
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2022-04-01/P1Y",
+        "Value": 29.9
+    },
+    {
+        "Area_code": "E07000148",
+        "Area_name": "Norwich",
+        "Period": "2023-04-01/P1Y",
+        "Value": 30.6
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2014-04-01/P1Y",
+        "Value": 11.9
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2015-04-01/P1Y",
+        "Value": 12.3
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2016-04-01/P1Y",
+        "Value": 11.3
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2017-04-01/P1Y",
+        "Value": 13.6
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2018-04-01/P1Y",
+        "Value": 12.4
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2019-04-01/P1Y",
+        "Value": 14.5
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2020-04-01/P1Y",
+        "Value": 12.6
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2021-04-01/P1Y",
+        "Value": 11.9
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2022-04-01/P1Y",
+        "Value": 13.4
+    },
+    {
+        "Area_code": "E07000149",
+        "Area_name": "South Norfolk",
+        "Period": "2023-04-01/P1Y",
+        "Value": 14.0
+    }
+]
