@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: false })); // parse url encoded reques
 
 // hello world response
 app.get('/', (req, res) => {
-  res.send({ message: 'Hello World!' })
+  res.send({ message: 'Why do I have to suffer?!' })
 })
 
 // start server
