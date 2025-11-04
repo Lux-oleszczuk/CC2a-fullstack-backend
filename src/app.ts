@@ -6,6 +6,8 @@ import bodyParser from "body-parser";
 const app = express();
 const port = 3000;
 
+let counter = 0;
+
 // setup CORS to allow requests from any origin
 const corsOptions = {
   origin: '*'
@@ -19,6 +21,15 @@ app.use(bodyParser.urlencoded({ extended: false })); // parse url encoded reques
 // hello world response
 app.get('/', (req, res) => {
   res.send({ message: 'Why do I have to suffer?!' })
+})
+
+app.get('/counter', (req, res) => {
+  res.send({ counter})
+})
+
+app.post('/counter', (req, res) => {
+  console.log(req.body);
+  res.send({message:'This method has not been implemented yet'})
 })
 
 // start server
