@@ -11,7 +11,8 @@ import { Rate } from "./types/data";
 const app = express();
 const port = 3000;
 
-let counter = 0;
+let regionMap = [];
+// let counter = 0;
 
 // setup CORS to allow requests from any origin
 const corsOptions = {
@@ -23,19 +24,6 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json()); // parse json requests
 app.use(bodyParser.urlencoded({ extended: false })); // parse url encoded requests
 
-// hello world response
-app.get('/', (req, res) => {
-  res.send({ message: 'Why do I have to suffer?!' })
-})
-
-app.get('/counter', (req, res) => {
-  res.send({ counter })
-})
-
-app.post('/counter', (req, res) => {
-  counter = req.body.counter;
-  res.send({ message: 'This method has not been implemented yet' })
-})
 
 // http://localhost:3000/child_powerty?areaCode=1
 app.get('/child_powerty', (req, res) => {
