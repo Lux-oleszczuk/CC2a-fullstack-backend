@@ -26,7 +26,7 @@ app.use(bodyParser.urlencoded({ extended: false })); // parse url encoded reques
 
 
 // http://localhost:3000/child_powerty?areaCode=1
-app.get('/child_powerty', (req, res) => {
+app.get('/child_poverty', (req, res) => {
 
   let data: Rate[] = [];
 
